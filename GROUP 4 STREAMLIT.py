@@ -9,5 +9,8 @@ from mpl_toolkits.mplot3d import Axes3D
 
 st.title('Analyzing Laptops and Their Prices')
 
-"# HEADER 1"
+df = pd.read_csv("laptop_price - dataset.csv")
+df
+
+
 
