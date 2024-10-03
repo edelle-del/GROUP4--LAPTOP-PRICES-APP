@@ -1,13 +1,15 @@
 GROUP 4 - BM3
 
 
+
 Members:
 
-LUMABI, Edelle Gibben
-LUSAYA, John Larence
-PASTIU, Nicholas Rian
-SANTILLAN, Daniel
-VITUG, Sophia
+- LUMABI, Edelle Gibben
+- LUSAYA, John Larence
+- PASTIU, Nicholas Rian
+- SANTILLAN, Daniel
+- VITUG, Sophia
+
 
 
 
