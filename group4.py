@@ -37,6 +37,7 @@ company
 
 # CPU Frequency Bar Graph (JOHN LARENCE LUSAYA)
 st.title('CPU Frequency (GHz)')
+<<<<<<< HEAD
 st.write("The data indicates a strong preference for CPUs in the 2.00 GHz to 2.90 GHz range, highlighting consumer demand trends and market availability. CPUs with lower frequencies are less frequently found.")
 
 df['CPU_Frequency (GHz)'].value_counts()
@@ -71,3 +72,6 @@ plt.tight_layout()
 plt.subplots_adjust(bottom=0.15)
 
 plt.show()
+=======
+st.write("The data indicates a strong preference for CPUs in the 2.00 GHz to 2.90 GHz range, highlighting consumer demand trends and market availability. CPUs with lower frequencies are less frequently found.")
+>>>>>>> 8543372974c19d0b24026065534ca266e3a989e1
