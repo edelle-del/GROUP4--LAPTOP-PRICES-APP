@@ -39,9 +39,6 @@ company
 st.title('CPU Frequency (GHz)')
 st.write("The data indicates a strong preference for CPUs in the 2.00 GHz to 2.90 GHz range, highlighting consumer demand trends and market availability. CPUs with lower frequencies are less frequently found.")
 
-<<<<<<< HEAD
-
-=======
 df['CPU_Frequency (GHz)'].value_counts()
 
 data = {
@@ -74,4 +71,3 @@ plt.tight_layout()
 plt.subplots_adjust(bottom=0.15)
 
 plt.show()
->>>>>>> 1ba975b5050b9d5abff99966f6b17ce43e54cd60
