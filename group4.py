@@ -29,8 +29,11 @@ sum
 desc = df.describe()
 desc
 
+"# Company Column"
+
 company = df['Company'].value_counts()
 company
+
 
 
 
